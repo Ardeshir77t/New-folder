@@ -6,3 +6,9 @@
 body {
   background: linear-gradient(135deg, blue, yellow);
 }
+p {
+  font-size: 22px;
+  font-family: arial;
+  font-weight: 500;
+  color: gray;
+}
